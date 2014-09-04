@@ -15,6 +15,12 @@
   "bugs": {
     "url": "https://github.com/stevenvachon/grunt-content/issues"
   },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/mit-license.php"
+    }
+  ],
   "dependencies": {
     "cli-clear": "^1.0",
     "cli-table": "~0.3",
